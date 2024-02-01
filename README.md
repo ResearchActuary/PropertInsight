@@ -1,10 +1,11 @@
 # PropertInsight
 Your Real Estate and Insurance Data Assistant
 
-The winning submission of the [Casualty Actuarial Society 2023 Hacktuary Challenge](https://www.casact.org/article/2023-cas-hacktuary-challenge-hack-back)   
+Winner of the [Casualty Actuarial Society 2023 Hacktuary Challenge](https://www.casact.org/article/2023-cas-hacktuary-challenge-hack-back)   
 
 Application can be viewed [here](https://propertinsight.shinyapps.io/launch).  
 
+<br/>
 
 ## PropertInsight is an innovative app that serves both individuals and insurers
 
@@ -23,5 +24,5 @@ Discover new data sources, understand their value, and leverage them to gain com
 + See demonstrations of how each data set can be used to improve risk assessment, pricing, marketing and more
 + Access the latest data to identify new opportunities and deploy advanced analytics
 
-With PropertInsight, real estate searches and insurance data insights are integrated for a powerful tool.  
+With PropertInsight, real estate searches and insurance data insights are integrated into a powerful tool.  
 The future of real estate and insurance technology, today.
