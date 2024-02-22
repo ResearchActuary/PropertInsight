@@ -25,7 +25,7 @@ Discover new data sources, understand their value, and leverage them to gain com
 + Access the latest data to identify new opportunities and deploy advanced analytics
 
 With PropertInsight, real estate searches and insurance data insights are integrated into a powerful tool.  
-The future of real estate and insurance technology, today.
+The future of real estate and insurance technology, today.  🏠🔍📊
 
 <br/>
 
